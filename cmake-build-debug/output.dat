@@ -1,0 +1,7 @@
+0
+-67
+44
+from: Frankfurt, to: Koeln, minutes: 205, cases: 67
+from: Koeln, to: Dortmund, minutes: 150, cases: 23
+from: Dortmund, to: Eindhoven, minutes: 150, cases: 15
+from: Eindhoven, to: Nijmegen, minutes: 90, cases: 44
